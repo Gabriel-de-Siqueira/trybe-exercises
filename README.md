@@ -1,0 +1,1 @@
+Colocarei aqui meus exercicios que aprenderei na trybe, tudo dividido por blocos e dias.
